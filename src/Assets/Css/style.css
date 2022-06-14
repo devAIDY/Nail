@@ -1,0 +1,63 @@
+.top_text{
+font-size:20px;
+font-weight: 800;
+text-align: center;
+}
+.banner_img{
+    border-radius:2%;
+    max-width: 25%;
+    min-width: 25%;
+    min-height: 125px;
+    max-height: 70px
+}
+.top_images{
+    max-width: 100% !important;
+    min-width: 100% !important;
+    min-height: 300px !important;
+        max-height: 300px !important;
+        border-radius: 5%;
+    }
+.card_text{
+    font-size:14px;
+font-weight: 600;
+text-align: center;
+}
+.see_btn{
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    border-radius: 15px !important;
+    min-width: 160px;
+    background-color: black !important;
+    color:white !important;
+}
+.clear_btn{
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    border-radius: 15px !important;
+    min-width: 160px;
+    background-color: #9400d3 !important;
+    color: white !important;
+}
+.discount_on{
+    color:#9400d3;
+}
+
+.spin_loader{
+    color:#9400d3;
+    text-align: center;
+}
+.arrow_icon{
+    background-color: black !important;
+    color: white !important;
+    font-weight: 800 !important;
+    text-align: end;
+}
+.no_record{
+    font-size: 15px;
+    color: black !important;
+    font-weight: 800 !important;
+    text-align: center;
+}
+.arrow_move{
+    text-align: end;
+}
